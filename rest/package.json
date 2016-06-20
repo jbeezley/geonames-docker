@@ -1,0 +1,9 @@
+{
+  "name": "geonames-rest",
+  "version": "0.1.0",
+  "description": "A restful georeferencing service on top of a geonames postgres database.",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "license": "Apache-2.0"
+}
